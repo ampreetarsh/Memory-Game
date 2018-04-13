@@ -5,7 +5,7 @@ My memory game project.
 
 Here is what the game board looks like!
 
-<img src="captures.png" width="300px">
+<img src="Memory-Game/Captures.png" width="300px">
 
 
 
