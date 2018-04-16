@@ -1,5 +1,4 @@
 # Memory-Game
-## My memory game project.
 ### Memory game is a brain-testing game where user is provide with 16 cards (8 pairs) and has to match two cards at a time.
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)
