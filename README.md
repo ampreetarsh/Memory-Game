@@ -6,7 +6,7 @@ Here is what the game board looks like!
 
 <img src="img/Captures.png" width="300px">
 
-Different parts of the game
+### Different parts of the game
 
 1. Matched Cards : when the user clicks on two cards and if they match their color will change to dark green and then again changes to their orignal color after one second and the cards will remain open.
 
