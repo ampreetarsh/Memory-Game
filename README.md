@@ -22,7 +22,7 @@ Here is what the game board looks like!
 
 <img src="img/moves.gif" width="300px">
 
- __4.Restart :__ When all cards are matched, player will get an alert saying that "You Won", and when restart button is clicked, the game will start again with shuffled cards and the number of moves will start again from 0.
+ __4. Restart :__ When all cards are matched, player will get an alert saying that "You Won", and when restart button is clicked, the game will start again with shuffled cards and the number of moves will start again from 0.
 
 <img src="img/restart.gif" width="300px">
 
