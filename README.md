@@ -16,6 +16,10 @@ Here is what the game board looks like!
 
 <img src="img/unmatch.gif" width="300px">
 
+3. Moves : When the two cards are clicked at a time, no. of moves will be increasing whether the cards are matched or not.
+
+<img src="img/moves.gif" width="300px">
+
 
 
  
