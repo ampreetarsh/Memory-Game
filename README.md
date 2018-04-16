@@ -36,7 +36,7 @@ Here is what the game board looks like!
 ### Planned Changes
 
 1. Rating stars will be added to rate the player"s performace depending upon how many moves the user plays to match the cards.
-2. Timer will be added which will be coonected to rating the perfrmance depending upon how much time the user takes to finish the game.
+2. Timer will be added which will be connected to rating the performance depending upon how much time the user takes to finish the game.
 
 ### Author
 __ARSHPREET KAUR__
