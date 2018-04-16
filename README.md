@@ -10,11 +10,11 @@ Here is what the game board looks like!
 
 ### Different parts of the game
 
-1. Matched Cards : when the user clicks on two cards and if they match their color will change to dark green and then again changes to their orignal color after one second and the cards will remain open.
+1. __Matched Cards__ : when the user clicks on two cards and if they match their color will change to dark green and then again changes to their orignal color after one second and the cards will remain open.
 
 <img src="img/match.gif" width ="300px">
 
-2. Unmatced Cards: When the two clicked cards do not match, the cards will shake and their color will change to red, and the cards will disappear.
+2. __Unmatced Cards__: When the two clicked cards do not match, the cards will shake and their color will change to red, and the cards will disappear.
 
 <img src="img/unmatch.gif" width="300px">
 
