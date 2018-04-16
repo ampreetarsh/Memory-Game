@@ -34,7 +34,7 @@ Here is what the game board looks like!
 3. If the cards do not match, the cards will be turned over and player has to select two new cards to continue playing game.
 4. Once all 8 pairs of cards are matched, user gets pop-up alert that "You Won".
 
-If you want to play the game click here! [Memory-Game](ampreetarsh.github.io/Memory-Game/)
+If you want to play the game click here [Memory-Game](ampreetarsh.github.io/Memory-Game/)
 
 ### Planned Changes
 
