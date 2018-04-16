@@ -11,19 +11,19 @@ Here is what the game board looks like!
 
 ### Different parts of the game
 
-1. __Matched Cards__ : when the user clicks on two cards and if they match their color will change to dark green and then again changes to their orignal color after one second and the cards will remain open.
+1. __Matched Cards :__ when the user clicks on two cards and if they match their color will change to dark green and then again changes to their orignal color after one second and the cards will remain open.
 
 <img src="img/match.gif" width ="300px">
 
-2. __Unmatced Cards__: When the two clicked cards do not match, the cards will shake and their color will change to red, and the cards will disappear.
+2. __Unmatced Cards :__ When the two clicked cards do not match, the cards will shake and their color will change to red, and the cards will disappear.
 
 <img src="img/unmatch.gif" width="300px">
 
-3. Moves : When the two cards are clicked at a time, no. of moves will be increasing whether the cards are matched or not.
+3. __Moves :__ When the two cards are clicked at a time, no. of moves will be increasing whether the cards are matched or not.
 
 <img src="img/moves.gif" width="300px">
 
-4. Restart : When all cards are matched, the alert will pop-up saying that "You Won", and when restart button is clicked, the game will start again with shuffled cards and the number of moves will start again from 0.
+4. __Restart :__ When all cards are matched, the alert will pop-up saying that "You Won", and when restart button is clicked, the game will start again with shuffled cards and the number of moves will start again from 0.
 
 <img src="img/restart.gif" width="300px">
 
@@ -34,7 +34,7 @@ Here is what the game board looks like!
 3. If the cards do not match, the cards will be turned over and player has to select two new cards to continue playing game.
 4. Once all 8 pairs of cards are matched, user gets pop-up alert that "You Won".
 
-If you want to play the game click here [Memory-Game](https://ampreetarsh.github.io/Memory-Game/)
+If you want to play the game click [Memory-Game](https://ampreetarsh.github.io/Memory-Game/)
 
 ### Planned Changes
 
