@@ -2,6 +2,8 @@
 My memory game project.
 ### Memory game is a brain-testing game where user is provide with 16 cards (8 pairs) and has to match two cards at a time.
 
+[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)
+
 Here is what the game board looks like!
 
 <img src="img/Captures.png" width="300px">
@@ -23,6 +25,15 @@ Here is what the game board looks like!
 4. Restart : When all cards are matched, the alert will pop-up saying that "You Won", and when restart button is clicked, the game will start again with shuffled cards and the number of moves will start again from 0.
 
 <img src="img/restart.gif" width="300px">
+
+### How to play
+
+1. The player must click on two cards in order to check whether the two cards match or no.
+2. If the cards match, both cards stay flipped over.
+3. If the cards do not match, the cards will be turned over and player has to select two new cards to continue playing game.
+4. Once all 8 pairs of cards are matched, user gets pop-up alert that "You Won".
+
+
 
 
 
