@@ -15,7 +15,7 @@ Different parts of the game
 
 2. Unmatced Cards: When the two clicked cards do not match, the cards will shake and their color will change to red, and the cards will disappear.
 
-<img src="img/unmatch.gif" width="300px"
+<img src="img/unmatch.gif" width="300px">
 
 
 
