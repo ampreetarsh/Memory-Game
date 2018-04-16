@@ -1,5 +1,5 @@
 # Memory-Game
-### Memory game is a brain-testing game where user is provide with 16 cards (8 pairs) and has to match two cards at a time.
+Memory game is a brain-testing game where user is provide with 16 cards (8 pairs) and has to match two cards at a time.
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)
 
@@ -43,7 +43,7 @@ If you want to play the game click [Memory-Game](https://ampreetarsh.github.io/M
 +  Timer will be added which will count the time depending upon how much time the user takes to finish the game.
 
 ### Author
-__ARSHPREET KAUR__
+ARSHPREET KAUR
 
 
 
