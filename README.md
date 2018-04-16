@@ -10,19 +10,19 @@ Here is what the game board looks like!
 
 ### Different parts of the game
 
-1. __Matched Cards :__ When the user clicks on two cards and if they match their color will change to dark green and then again changes to their orignal color and cards will stay flipped over.
+ __1. Matched Cards :__ When the user clicks on two cards and if they match their color will change to dark green and then again changes to their orignal color and cards will stay flipped over.
 
 <img src="img/match.gif" width ="300px">
 
-2. __Unmatced Cards :__ When the two clicked cards do not match, cards will shake and their color will change to red, and will flipped back.
+ __2. Unmatced Cards :__ When the two clicked cards do not match, cards will shake and their color will change to red, and will flipped back.
 
 <img src="img/unmatch.gif" width="300px">
 
-3. __Moves :__ When the two cards are clicked, number of moves will be increasing.
+ __3. Moves :__ When the two cards are clicked, number of moves will be increasing.
 
 <img src="img/moves.gif" width="300px">
 
-4. __Restart :__ When all cards are matched, player will get an alert saying that "You Won", and when restart button is clicked, the game will start again with shuffled cards and the number of moves will start again from 0.
+ __4.Restart :__ When all cards are matched, player will get an alert saying that "You Won", and when restart button is clicked, the game will start again with shuffled cards and the number of moves will start again from 0.
 
 <img src="img/restart.gif" width="300px">
 
