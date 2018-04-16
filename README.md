@@ -38,8 +38,8 @@ If you want to play the game click [Memory-Game](https://ampreetarsh.github.io/M
 
 ### Planned Changes
 
-1. Rating stars will be added to rate the player"s performace depending upon how many moves the user plays to match the cards.
-2. Timer will be added which will be connected to rating the performance depending upon how much time the user takes to finish the game.
++  Rating stars will be added to rate the player"s performace depending upon how many moves the player plays to match the cards.
++  Timer will be added which will count the time depending upon how much time the user takes to finish the game.
 
 ### Author
 __ARSHPREET KAUR__
