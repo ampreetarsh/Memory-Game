@@ -28,10 +28,11 @@ Here is what the game board looks like!
 
 ### How to play
 
-1. Click on two cards in order to check whether they match or not.
+1. Click on two cards at a time in order to check whether they match or not.
 2. If the cards match, both cards stay flipped over.
 3. If the cards do not match, the cards will be turned over and player has to select two new cards to continue playing game.
 4. Once all 8 pairs of cards are matched, player will get an alert saying that "You Won".
+5. Click on restart button to play the game again.
 
 
 If you want to play the game click [Memory-Game](https://ampreetarsh.github.io/Memory-Game/)
