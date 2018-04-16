@@ -20,9 +20,11 @@ Here is what the game board looks like!
 
 <img src="img/moves.gif" width="300px">
 
-4. Restart : When restart button is clicked, the game will start again with shuffled cards and the number of moves will start again from 0.
+4. Restart : When all cards are matched, the alert will pop-up saying that "You Won", and when restart button is clicked, the game will start again with shuffled cards and the number of moves will start again from 0.
 
 <img src="img/restart.gif" width="300px">
+
+
 
 
 
